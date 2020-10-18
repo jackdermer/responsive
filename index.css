@@ -1,0 +1,80 @@
+body {
+    font: normal 18px/1.9em "Inter", "Source Sans Pro","Helvetica Neue", Arial, sans-serif;
+    padding: 0; 
+    margin: 3vw;
+    background-color: #2B2D42;
+    color: white
+}
+
+h1 {
+    align-items: center;
+}
+
+h3 {
+    font-size: 22px;
+    font-style: italic;
+}
+
+.flex_container {
+    display: flex;
+    align-items: center;
+    width: 10vw;
+}
+
+img.sketch {
+    border: white;
+    border-width: 20px;
+    border-style: double;
+    max-width: 70%;
+} 
+
+img.empathy {
+    border: white;
+    border-width: 20px;
+    border-style: double;
+    max-width: 60%;
+} 
+
+img.storyboard {
+    border: white;
+    border-width: 20px;
+    border-style: double;
+    max-width: 80%;
+} 
+
+.center {
+    text-align: center;
+}
+
+.interview {
+    background-color: #5CA4A9;
+    padding: 1vw;
+    border-radius: 2vw;
+    color: white;
+    margin-bottom: 2vw;
+}
+
+.description {
+    background-color: #5CA4A9;
+    padding: 1vw;
+    border-radius: 2vw;
+    color: white;
+    margin-bottom: 2vw;
+}
+
+.personas {
+    background-color: #5CA4A9;
+    padding: 1vw;
+    border-radius: 2vw;
+    color: white;
+    margin-bottom: 2vw;
+}
+
+.answers {
+    background-color: #FCF0CC;
+    padding: 1vw;
+    border-radius: 2vw;
+    color: white;
+    margin-top: 2vw;
+    color: black;
+}
